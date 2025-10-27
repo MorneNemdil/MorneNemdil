@@ -12,13 +12,13 @@ I have professional experience across the full stack, with a focus on Microsoft 
 
 ### Backend & Databases
 * **Languages:** C#, Java
-* **Frameworks & Tools:** Entity Framework, OOP
+* **Frameworks & Tools:** Entity Framework Core, OOP
 * **Databases:** Microsoft SQL Server, SQL, SQL Server Management Studio (SSMS), Databases
-* **Other:** XML, Appwrite
+* **Other:** Appwrite
 
 ### Frontend
-* **Frameworks & Libraries:** React
-* **Languages:** TypeScript, JavaScript, HTML, CSS
+* **Frameworks & Libraries:** React, Vite, Tailwind
+* **Languages:** TypeScript, JavaScript, HTML, CSS, XML
 
 ### Development Practices & Tools
 * **Version Control:** Git, GitHub, Git Version Control via Fork
