@@ -58,5 +58,5 @@ Here are a few examples of my personal work that demonstrate my skills:
 
 ## 📬 Get In Touch
 
-* **Email:** [mornenemdil@gmail.com](mailto:mornenemdil@gmail.com)
+* **Email:** [mornenemdilbusiness@gmail.com](mailto:mornenemdilbusiness@gmail.com)
 * **Location:** Brighton and Hove, UK (Willing to relocate: Anywhere)
